@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833222531786",
+    "project_id": "assignmentform-315d5",
+    "storage_bucket": "assignmentform-315d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833222531786:android:457e6648329d525da63233",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833222531786-ejlq125ffslrb2q6r39ano6tcgpql263.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcW_ZfTrsufZlL1G7XRoPZlfOn8EWjU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833222531786-ejlq125ffslrb2q6r39ano6tcgpql263.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
